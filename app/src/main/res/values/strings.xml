@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SQLitePractice</string>
+    <string name="text_menu_exit">Выход</string>
+    <string name="text_name_ET">Название продукта</string>
+    <string name="text_weight_ET">Вес продукта</string>
+    <string name="text_price_ET">Цена</string>
+    <string name="text_save_BTN">Сохранить</string>
+    <string name="text_edit_BTN">Изменить</string>
+    <string name="text_remove_BTN">Удалить</string>
+    <string name="text_id_TV">ID</string>
+    <string name="text_enter_id">Введите id</string>
+    <string name="text_enter_name">Введите название продукта</string>
+    <string name="text_enter_weght">Введите вес продукта</string>
+    <string name="text_enter_price">Введите цену продукта</string>
+    <string name="text_cancel_BTN">Отменв</string>
+</resources>
